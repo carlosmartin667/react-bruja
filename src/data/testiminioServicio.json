@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "idModal": "portfolioModal1",
+    "titulo": "Jean Carlos",
+    "subtitulo": "Amarre",
+    "descripcion": "Hicimos un trabajo de amarre con el señor Jean, habia tenido un fuerte conflicto con su pareja, pudimos ver los primeros resultados 1 semana despues de haber hecho este ritual",
+    "Client": "Jean Carlos",
+    "Category": "Amarre"
+  },
+  {
+    "id": 1,
+    "idModal": "portfolioModal2",
+    "titulo": "Anonimo",
+    "subtitulo": "Limpieza",
+    "descripcion": "",
+    "Client": "Anonimo",
+    "Category": "Limpieza"
+  },
+  {
+    "id": 2,
+    "idModal": "portfolioModal3",
+    "titulo": "Laura garcia",
+    "subtitulo": "Endulzamiento",
+    "descripcion": " Con este ritual hicimos que su pareja vuelva a tener la misma llama que hubo al principio en la relacion, pudimos desbloquear las trabas que habían de por medio en la relacion con nuestro cliente. El muy feliz nos cuenta que en pocos días ya empezo a volver ser la misma pareja que fue siempre",
+    "Client": "Laura garcia",
+    "Category": "Endulzamiento"
+  },
+  {
+    "id": 3,
+    "idModal": "portfolioModal4",
+    "titulo": "Rafeal",
+    "subtitulo": "Abre caminos",
+    "descripcion": "Este trabajo consiste en abrir todos los bloqueos que hay de por medio en tu vida laboral/profesional, lo que nos interesa a nosotros es sacar la envidia y el mal de ojo, creamos una protección hacia la persona para que las malas energias de las personas no le afecten en su vida cotidiana",
+    "Client": "Rafeal",
+    "Category": "Abre caminos"
+  }
+]

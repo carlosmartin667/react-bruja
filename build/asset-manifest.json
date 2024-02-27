@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2159e02.css",
+    "main.js": "/static/js/main.77ffb1d0.js",
+    "static/js/787.2423c489.chunk.js": "/static/js/787.2423c489.chunk.js",
+    "static/media/foto.jpg": "/static/media/foto.f71aba1532ea47f3eff0.jpg",
+    "static/media/portada.jpg": "/static/media/portada.05a30379491b09bcc3a5.jpg",
+    "static/media/Fundadora.jpg": "/static/media/Fundadora.3acca52468dfe996d93c.jpg",
+    "static/media/map-image.png": "/static/media/map-image.3cd6dd9808474f6ed762.png",
+    "static/media/Sanacion.jpg": "/static/media/Sanacion.8b78cab7dd2aae73b0a7.jpg",
+    "static/media/amoresImposible.jpg": "/static/media/amoresImposible.84e70c00cdd880466886.jpg",
+    "static/media/testimonio2.jpg": "/static/media/testimonio2.605cf02685c5558dd572.jpg",
+    "static/media/testimonio3.jpg": "/static/media/testimonio3.92eea7ac450db5f17e3f.jpg",
+    "static/media/testimonio1.jpg": "/static/media/testimonio1.6b5196f25b334b9cca72.jpg",
+    "static/media/TarotLectura.jpg": "/static/media/TarotLectura.28a036d26d32f04ae25a.jpg",
+    "static/media/amarresCaseros.jpg": "/static/media/amarresCaseros.f3fdc3ed36d12e0661ec.jpg",
+    "static/media/testimonio4.jpg": "/static/media/testimonio4.ff8d18703a3248e15f47.jpg",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.c2159e02.css.map": "/static/css/main.c2159e02.css.map",
+    "main.77ffb1d0.js.map": "/static/js/main.77ffb1d0.js.map",
+    "787.2423c489.chunk.js.map": "/static/js/787.2423c489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2159e02.css",
+    "static/js/main.77ffb1d0.js"
+  ]
+}

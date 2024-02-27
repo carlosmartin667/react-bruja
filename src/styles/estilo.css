@@ -1,0 +1,22 @@
+* {
+box-sizing: border-box
+}
+
+:root {
+--max: 19rem
+}
+
+body {
+margin: 0;
+padding: 0;
+min-height: 100%
+}
+
+.card {
+width: var(--max)
+}
+
+.card-img-top {
+height: calc(var(--max));
+object-fit: cover;
+} 
